@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FHADMINM">
+    <output-path>$PROJECT_DIR$/out/artifacts/FHADMINM</output-path>
+    <root id="root">
+      <element id="module-output" name="FHADMINM" />
+      <element id="module-source" name="FHADMINM" />
+    </root>
+  </artifact>
+</component>
